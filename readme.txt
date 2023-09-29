@@ -1,6 +1,6 @@
 This folder contains software for all boards on iCub.
 
-The iCub board software is composed of the firmware layer, colled also Hardware Abstraction Layer, and application layer.
+The iCub board software is composed of the firmware layer, called also Hardware Abstraction Layer, and application layer.
 The first layer provides services (such as peripherical management, ..) to the second one;
 the application layer implements motor control or sensors reading.
 
